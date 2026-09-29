@@ -16562,7 +16562,7 @@ cc_prebuilt_binary {
                 "libhidltransport",
                 "libmiscta",
                 "vendor.somc.hardware.security.secd@1.0",
-                "libcrypto",
+                "libcrypto-v33",
                 "libsqlite",
                 "libtpm",
                 "libidd",
