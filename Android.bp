@@ -7869,6 +7869,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib/libsomc_chokoballpal.so",
             ],
             shared_libs: [
+		"libchokoballpal_shim",
                 "liblog",
                 "libcammw",
                 "libutils",
